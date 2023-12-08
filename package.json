@@ -1,0 +1,22 @@
+{
+  "name": "cool-blue-theme",
+  "displayName": "Cool Blue Theme",
+  "description": "Blue Colors",
+  "publisher": "CuriousCoder",
+  "version": "0.2.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cool Blue Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cool Blue Theme-color-theme.json"
+      }
+    ]
+  }
+}
